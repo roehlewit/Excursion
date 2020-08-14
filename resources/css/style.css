@@ -1,10 +1,11 @@
-html{ 
+html { 
     display: block
-    background-color: black;
 }
 body {
     font-family: Verdana, sans-serif;
     text-align: center;
+    background-color: black;
+    color: white;
     }
     
     
